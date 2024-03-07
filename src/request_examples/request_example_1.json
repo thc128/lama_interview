@@ -1,0 +1,8 @@
+{
+    "borrowerType": "business",
+    "loanType": "Line Of Credit",
+    "state": "NY",
+    "riskLevel": 90,
+    "Industry": "agriculture" ,
+    "requestedAmount": 1000000
+}

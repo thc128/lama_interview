@@ -1,0 +1,7 @@
+{
+    "borrowerType": "consumer",
+    "loanType": "Student Loan",
+    "state": "CA",
+    "riskLevel": 75,
+    "requestedAmount": 30000
+}
